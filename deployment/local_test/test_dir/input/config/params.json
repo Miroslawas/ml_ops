@@ -1,0 +1,16 @@
+{
+  "model_params": {
+    "iterations": 1000,
+    "eval_metric": "PRAUC",
+    "early_stopping_rounds": 40
+  },
+  "data_params": {
+    "pos_class": 1,
+    "cat_features" :[
+      "sex", "chest-pain-type", "fasting-blood-sugar",
+      "resting-ecg", "exercise-angina", "slope", "colored-vessels",
+      "thal", "datetime", "postalcode"
+    ],
+    "target": "narrowing-diagnosis"
+  }
+}

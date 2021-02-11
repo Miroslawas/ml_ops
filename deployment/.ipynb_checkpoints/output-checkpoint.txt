@@ -1,0 +1,121 @@
+2021-02-10 16:59:32 Starting - Starting the training job...
+2021-02-10 16:59:55 Starting - Launching requested ML instancesProfilerReport-1612976370: InProgress
+......
+2021-02-10 17:01:06 Starting - Preparing the instances for training......
+2021-02-10 17:02:17 Downloading - Downloading input data
+2021-02-10 17:02:17 Training - Downloading the training image.....model has been trained successfully
+Metrics for trained model:
+roc_auc=0.9172113289760349
+accuracy=0.819672131147541
+lift=0.04918032786885246
+hosmer_lemeshow=0.17217220973145209
+
+2021-02-10 17:03:18 Uploading - Uploading generated training model
+2021-02-10 17:03:18 Completed - Training job completed
+Training seconds: 76
+Billable seconds: 76
+heart-123-2021-02-10-16-59-30-638
+2021-02-10 19:00:20 Starting - Starting the training job...
+2021-02-10 19:00:43 Starting - Launching requested ML instancesProfilerReport-1612983619: InProgress
+......
+2021-02-10 19:01:44 Starting - Preparing the instances for training...
+2021-02-10 19:02:24 Downloading - Downloading input data
+2021-02-10 19:02:24 Training - Downloading the training image.....model has been trained successfully
+Metrics for trained model:
+roc_auc=0.9444444444444444
+accuracy=0.8688524590163934
+lift=0.04918032786885246
+hosmer_lemeshow=0.02336612620009025
+
+2021-02-10 19:03:28 Uploading - Uploading generated training model
+2021-02-10 19:03:28 Completed - Training job completed
+Training seconds: 76
+Billable seconds: 76
+2021-02-10 19:04:52 Starting - Starting the training job...
+2021-02-10 19:05:15 Starting - Launching requested ML instancesProfilerReport-1612983891: InProgress
+......
+2021-02-10 19:06:16 Starting - Preparing the instances for training...
+2021-02-10 19:06:56 Downloading - Downloading input data
+2021-02-10 19:06:56 Training - Downloading the training image.....model has been trained successfully
+Metrics for trained model:
+roc_auc=0.9531590413943355
+accuracy=0.8852459016393442
+lift=0.04918032786885246
+hosmer_lemeshow=7.879319857425925e-05
+
+2021-02-10 19:08:04 Uploading - Uploading generated training model
+2021-02-10 19:08:04 Completed - Training job completed
+Training seconds: 75
+Billable seconds: 75
+2021-02-10 19:10:48 Starting - Starting the training job...
+2021-02-10 19:11:12 Starting - Launching requested ML instancesProfilerReport-1612984247: InProgress
+...............
+2021-02-10 19:13:54 Starting - Preparing the instances for training........................
+2021-02-10 19:18:37 Downloading - Downloading input data.........
+2021-02-10 19:20:17 Training - Downloading the training image.......model has been trained successfully
+Metrics for trained model:
+roc_auc=0.9543010752688172
+accuracy=0.9180327868852459
+lift=0.04918032786885246
+hosmer_lemeshow=0.0003424684095152222
+
+2021-02-10 19:21:40 Training - Training image download completed. Training in progress.
+2021-02-10 19:22:21 Uploading - Uploading generated training modelProfilerReport-1612984247: NoIssuesFound
+
+2021-02-10 19:24:35 Completed - Training job completed
+Training seconds: 376
+Billable seconds: 376
+training model
+2021-02-11 08:01:56 Starting - Starting the training job...
+2021-02-11 08:02:20 Starting - Launching requested ML instancesProfilerReport-1613030515: InProgress
+......
+2021-02-11 08:03:21 Starting - Preparing the instances for training...
+2021-02-11 08:04:04 Downloading - Downloading input data...
+2021-02-11 08:04:42 Training - Downloading the training image...
+2021-02-11 08:05:14 Uploading - Uploading generated training modelmodel has been trained successfully
+Metrics for trained model:
+roc_auc=0.8749999999999999
+accuracy=0.819672131147541
+lift=0.04918032786885246
+hosmer_lemeshow=0.002339181822968834
+
+2021-02-11 08:05:50 Completed - Training job completed
+Training seconds: 106
+Billable seconds: 106
+deploying model
+training model
+2021-02-11 08:07:23 Starting - Starting the training job...
+2021-02-11 08:07:47 Starting - Launching requested ML instancesProfilerReport-1613030842: InProgress
+......
+2021-02-11 08:08:48 Starting - Preparing the instances for training...
+2021-02-11 08:09:29 Downloading - Downloading input data...
+2021-02-11 08:10:08 Training - Downloading the training image...
+2021-02-11 08:10:41 Uploading - Uploading generated training modelmodel has been trained successfully
+Metrics for trained model:
+roc_auc=0.9531590413943355
+accuracy=0.8524590163934426
+lift=0.04918032786885246
+hosmer_lemeshow=0.00021369033648594305
+
+2021-02-11 08:11:09 Completed - Training job completed
+Training seconds: 79
+Billable seconds: 79
+deploying model
+training model
+2021-02-11 09:03:26 Starting - Starting the training job...
+2021-02-11 09:03:49 Starting - Launching requested ML instancesProfilerReport-1613034205: InProgress
+......
+2021-02-11 09:04:50 Starting - Preparing the instances for training...
+2021-02-11 09:05:33 Downloading - Downloading input data
+2021-02-11 09:05:33 Training - Downloading the training image.....model has been trained successfully
+Metrics for trained model:
+roc_auc=0.931917211328976
+accuracy=0.8524590163934426
+lift=0.04918032786885246
+hosmer_lemeshow=2.3476938185902034e-05
+
+2021-02-11 09:06:36 Uploading - Uploading generated training model
+2021-02-11 09:06:36 Completed - Training job completed
+Training seconds: 75
+Billable seconds: 75
+heart-release-demo-2021-02-11-09-03-25-738

@@ -1,0 +1,18 @@
+training model
+2021-02-11 12:23:59 Starting - Starting the training job...
+2021-02-11 12:24:23 Starting - Launching requested ML instancesProfilerReport-1613046239: InProgress
+......
+2021-02-11 12:25:24 Starting - Preparing the instances for training...
+2021-02-11 12:26:12 Downloading - Downloading input data
+2021-02-11 12:26:12 Training - Downloading the training image......
+2021-02-11 12:27:14 Uploading - Uploading generated training model
+2021-02-11 12:27:14 Completed - Training job completed
+model has been trained successfully
+Metrics for trained model:
+roc_auc=0.8890086206896552
+accuracy=0.819672131147541
+lift=0.04918032786885246
+hosmer_lemeshow=0.3016588433413732
+Training seconds: 73
+Billable seconds: 73
+release-demo-2021-02-11-12-23-59-016
